@@ -21,7 +21,6 @@
 }
 
 
-
 .hover {
   padding: 15px;
   background: green;
@@ -31,7 +30,7 @@ one;
 
 .hover:hover {
   background: darkgreen;  
-  transform: scale(1.1);   
+  transform: scale(2.1);   
 }
 .options {
   display: none;        
@@ -51,7 +50,7 @@ one;
 }
 
 .zoomimage {
-  transition: 0.5s;       
+  transition: 0.4s;       
 }
 
 .zoomimage:hover {
